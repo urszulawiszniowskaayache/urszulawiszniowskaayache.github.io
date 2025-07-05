@@ -2,7 +2,7 @@
 layout: splash
 title:
 permalink: /
-header: Welcome
+header:
   overlay_color: "#ffffff"
   overlay_image: none
   overlay_filter: "0"
