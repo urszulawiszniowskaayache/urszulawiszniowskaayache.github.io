@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: "Welcome to my bio page"
 permalink: /
 header:
   overlay_color: "#ffffff"
