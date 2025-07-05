@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: "Welcome!"
+title:
 permalink: /
-header:
+header: Welcome
   overlay_color: "#ffffff"
   overlay_image: none
   overlay_filter: "0"
