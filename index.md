@@ -13,7 +13,7 @@ header:
     <p><strong>Postdoctoral Researcher</strong><br>
     <a href="https://www.uio.no/english/" target="_blank">University of Oslo</a> | <a href="https://www.sv.uio.no/tik/english/research/centre/intransit/" target="_blank">INTRANSIT Research Centre</a></p>
 
-    <p>My research explores how executive cognition and communication shape organizational responses to sustainability transitions, business model innovation, and institutional complexity.</p>
+    <p>My research explores how executive cognition and communication shape organizational responses to sustainability transitions, organisational change (incluing business model innovation), and institutional complexity.</p>
 
     <p>Before academia, I led software projects and worked in the energy sector across Europe. I combine qualitative and computational methods to study strategy, innovation, and digital ecosystems.</p>
   </div>
