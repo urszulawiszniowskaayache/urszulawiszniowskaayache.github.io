@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 **Urszula Wiszniowska Ayache, PhD**  
-Postdoctoral Researcher, [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/), University of Oslo  
-📧 urszulwa@ifi.uio.no  
+Postdoctoral Researcher, [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/), University of Oslo   
 [LinkedIn](https://www.linkedin.com/in/urszulawiszniowskaayache/)
 
 ---
