@@ -1,5 +1,12 @@
 ---
-Hello!
+title: "About"
+permalink: /about/
+layout: single
+author_profile: true
+---
+
+---
+Hello
 ---
 
 I'm a Postdoctoral Researcher at the University of Oslo, affiliated with the [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/).  
