@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:
+title: "Welcome"
 permalink: /
 header:
   overlay_color: "#ffffff"
