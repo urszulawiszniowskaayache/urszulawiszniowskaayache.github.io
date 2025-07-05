@@ -2,8 +2,10 @@
 title: "CV"
 permalink: /cv/
 layout: single
+sidebar: false
 author_profile: true
 ---
+
 
 **Urszula Wiszniowska Ayache, PhD**  
 Postdoctoral Researcher, [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/), University of Oslo   
