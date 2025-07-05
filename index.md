@@ -10,7 +10,7 @@ header:
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
-    <h1 style="margin-bottom: 0.5em;">Urszula Wiszniowska Ayache</h1>
+    <h1 style="margin-bottom: 0.5em;">I'm Urszula Wiszniowska Ayache, PhD and here is my short bio...</h1>
     <p><strong>Postdoctoral Researcher</strong><br>
     <a href="https://www.uio.no/english/" target="_blank">University of Oslo</a> | <a href="https://www.sv.uio.no/tik/english/research/centre/intransit/" target="_blank">INTRANSIT Research Centre</a></p>
 
