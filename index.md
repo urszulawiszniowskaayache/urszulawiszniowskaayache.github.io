@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Urszula Wiszniowska Ayache"
+title: "Urszula Wiszniowska Ayache, PhD"
 permalink: /
 header:
   overlay_color: "#ffffff"
@@ -20,7 +20,7 @@ header:
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/images/urszula.jpg" alt="Urszula Wiszniowska Ayache" style="max-width: 200px; border-radius: 100%; margin-bottom: 1em;" />
+    <img src="/images/Photo.jpg" alt="Urszula Wiszniowska Ayache" style="max-width: 200px; border-radius: 100%; margin-bottom: 1em;" />
     <p>
       <a href="/cv/" target="_blank">📄 CV</a> &nbsp;|&nbsp;
       <a href="https://www.linkedin.com/in/urszula" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp;
