@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 **Urszula Wiszniowska Ayache, PhD**  
-Postdoctoral Researcher, [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/), University of Oslo  
-📧 urszulwa@ifi.uio.no  
+Postdoctoral Researcher, [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/), University of Oslo   
 [LinkedIn](https://www.linkedin.com/in/urszulawiszniowskaayache/)
 
 ---
@@ -95,7 +94,7 @@ Thesis: *Strategic Leadership Communication in Business Ecosystems*
 
 ## Teaching & Supervision
 
-- Strategy, Agile Project Mgmt, Digital Ecosystems – ESCP, IÉSEG, UiO
+- Business Strategy (core MIM course), Agile Project Mgmt, Digital Ecosystems, Digital Innovation (course creation and delivery) – ESCP, IÉSEG, UiO
 - Thesis supervision – ESCP & UiO (2020–2026)
 - Doctoral seminar on NLP methods
 
@@ -103,7 +102,13 @@ Thesis: *Strategic Leadership Communication in Business Ecosystems*
 
 ## Tools
 
-Python, R, Stata, NLP, Zotero, LaTeX, Tableau, Power BI
+Programming & Data Analysis : Python, R, Stata, Jupyter Notebooks, LIWC, NVivo, Zotero, LaTeX, Tableau, Power BI
+
+Software Engineering & Project Management: Jira, Trello, Confluence, GitHub, Microsoft Project, Asana, Agile/Scrum methodology
+
+Digital Tools for Teaching & Collaboration: Canvas, Moodle, Zoom, Miro, Slack, Microsoft Teams, Loom (video creation & feedback)
+
+Other Technical Skills: Shell scripting, basic SQL, HTML
 
 ---
 
