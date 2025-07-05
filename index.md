@@ -1,6 +1,15 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+title: "Urszula Wiszniowska Ayache, PhD"
+subtitle: >
+  Postdoctoral Researcher | Strategy & Sustainability | Executive Communication
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /images/Photo.jpg
+  cta_label: "Learn More"
+  cta_url: "/about/"
+  caption: "Photo by you or Unsplash"
 ---
 
 **Hello !** I'm a Postdoctoral Researcher at the University of Oslo, affiliated with the [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/).  
