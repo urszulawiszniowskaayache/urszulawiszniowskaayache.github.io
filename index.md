@@ -1,20 +1,30 @@
 ---
 layout: splash
-title: "Urszula Wiszniowska Ayache, PhD"
-subtitle: >
-  Postdoctoral Researcher | Strategy & Sustainability | Executive Communication
+title: "Urszula Wiszniowska Ayache"
+permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
-  overlay_image: /images/Photo.jpg
-  cta_label: "Learn More"
-  cta_url: "/about/"
-  caption: "Photo by you or Unsplash"
+  overlay_color: "#ffffff"
+  overlay_image: none
+  overlay_filter: "0"
 ---
 
-**Hello !** I'm a Postdoctoral Researcher at the University of Oslo, affiliated with the [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/).  
-My research explores how executive cognition and communication shape organizational responses to sustainability transitions, business model disruptions, and institutional complexity. I combine qualitative and quantitative methods, with a deep appreciation for theory.
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
+    <h1 style="margin-bottom: 0.5em;">Urszula Wiszniowska Ayache</h1>
+    <p><strong>Postdoctoral Researcher</strong>  
+    <br>University of Oslo | INTRANSIT Research Centre</p>
 
-Before entering academia, I spent over a decade working in the energy sector and leading software engineering projects across Europe. This experience informs both my research and my approach to teaching.
+    <p>My research explores how executive cognition and communication shape organizational responses to sustainability transitions, business model innovation, and institutional complexity.</p>
 
-I hold a PhD in Strategic Management from ESCP Business School, an MPhil in Linguistics from the University of Cambridge (Selwyn College), and an MSc in Computer Science from Imperial College London.
+    <p>Before academia, I led software projects and worked in the energy sector across Europe. I combine qualitative and computational methods to study strategy, innovation, and digital ecosystems.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="/images/urszula.jpg" alt="Urszula Wiszniowska Ayache" style="max-width: 200px; border-radius: 100%; margin-bottom: 1em;" />
+    <p>
+      <a href="/cv/" target="_blank">📄 CV</a> &nbsp;|&nbsp;
+      <a href="https://www.linkedin.com/in/urszula" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp;
+      <a href="mailto:your@email.com">✉️ Email</a>
+    </p>
+  </div>
+</div>
