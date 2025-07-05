@@ -5,9 +5,7 @@ layout: single
 author_profile: true
 ---
 
----
-Hello!
----
+Hello !
 
 I'm a Postdoctoral Researcher at the University of Oslo, affiliated with the [INTRANSIT Research Centre](https://www.sv.uio.no/tik/english/research/centre/intransit/).  
 My research explores how executive cognition and communication shape organizational responses to sustainability transitions, business model disruptions, and institutional complexity. I combine qualitative and quantitative methods, with a deep appreciation for theory.
