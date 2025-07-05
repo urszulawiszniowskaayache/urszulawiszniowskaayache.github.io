@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Urszula Wiszniowska Ayache",
+    "email": "urszulwa@ifi.uio.no",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://urszulawiszniowskaayache.github.io/cv/",
+    "summary": "Postdoctoral researcher at UiO",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,7 +21,7 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0004-1787-3681"
       },
       {
         "network": "GitHub",
