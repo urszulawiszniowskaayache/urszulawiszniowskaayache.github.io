@@ -58,7 +58,6 @@ Thesis: *Strategic Leadership Communication in Business Ecosystems*
 **BA in English Studies**, University of Wrocław (2005–2008)
 
 <!--#----
-
 ## Working Papers - @Google Scholar and @Cristin
 
 - *The role of AI in the creation of sustainability-oriented digital innovation*, with Raissa Pershina
