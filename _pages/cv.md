@@ -61,13 +61,13 @@ Thesis: *Strategic Leadership Communication in Business Ecosystems*
 
 ## Working Papers - @Google Scholar and @Cristin
 
-#- *The role of AI in the creation of sustainability-oriented digital innovation*, with Raissa Pershina
+<!--#- *The role of AI in the creation of sustainability-oriented digital innovation*, with Raissa Pershina
 #- *Fueling Doubt: Organizational Responses to Strategic Reversals in Climate Commitments*, with Birthe Soppe
 #- *Top Management response to a mining crisis*, with Ivy Buche
 #- *Balancing acts – authenticity of assertive talk of female top executives*, with Tina Saebi & Abbie Oliver
 #- *Harmonizing the hive: linguistic strategies in ecosystems*, with Tina Saebi & Nicolai J. Foss
 #- *Platform TMTs: A Communication Shift in New Organisational Forms*, AOM Proc, with Regis Coeurderoy, 2023.
-#- *Covid-19 and the scale-up of the platform revolution*, ESCP Impact Papers, with Regis Coeurderoy, 2020.
+#- *Covid-19 and the scale-up of the platform revolution*, ESCP Impact Papers, with Regis Coeurderoy, 2020.-->
 
 ---
 
