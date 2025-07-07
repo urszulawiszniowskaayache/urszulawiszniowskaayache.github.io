@@ -15,7 +15,7 @@ header:
 
     <p>My research explores how executive cognition and communication shape organizational responses to sustainability transitions, organisational change (incluing business model innovation), and institutional complexity.</p>
 
-    <p>Before academia, I led software projects and worked in the energy sector across Europe. I combine qualitative and computational methods to study strategy, innovation, and digital ecosystems.</p>
+    <p>Before academia, I led international software projects and worked in the energy sector across Europe. I combine qualitative and computational methods to study strategy, innovation, and digital ecosystems.</p>
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
