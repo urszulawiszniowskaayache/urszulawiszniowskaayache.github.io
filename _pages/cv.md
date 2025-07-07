@@ -105,7 +105,7 @@ Thesis: *Strategic Leadership Communication in Business Ecosystems*
 
 - Programming & Data Transformation: Python, Stata, Text Analysis and NLP, Jupyter Notebooks, Tableau, Power BI, LIWC, NVivo, Zotero, LaTeX
 - Project Management: Jira, Trello, GitHub, Microsoft Project, Asana, Agile/Scrum methodology
-- Digital Tools for Teaching & Collaboration: Canvas, Moodle, Zoom, Miro, Slack, Microsoft Teams, Loom
+- Digital Tools for Teaching & Collaboration: Canvas, Moodle, Zoom, Miro, Slack, Microsoft Teams, iMovie, Audacity.
 
 ---
 
