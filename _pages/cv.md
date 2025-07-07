@@ -57,17 +57,17 @@ Thesis: *Strategic Leadership Communication in Business Ecosystems*
 
 **BA in English Studies**, University of Wrocław (2005–2008)
 
----
+<!--#----
 
 ## Working Papers - @Google Scholar and @Cristin
 
-<!--#- *The role of AI in the creation of sustainability-oriented digital innovation*, with Raissa Pershina
-#- *Fueling Doubt: Organizational Responses to Strategic Reversals in Climate Commitments*, with Birthe Soppe
-#- *Top Management response to a mining crisis*, with Ivy Buche
-#- *Balancing acts – authenticity of assertive talk of female top executives*, with Tina Saebi & Abbie Oliver
-#- *Harmonizing the hive: linguistic strategies in ecosystems*, with Tina Saebi & Nicolai J. Foss
-#- *Platform TMTs: A Communication Shift in New Organisational Forms*, AOM Proc, with Regis Coeurderoy, 2023.
-#- *Covid-19 and the scale-up of the platform revolution*, ESCP Impact Papers, with Regis Coeurderoy, 2020.-->
+- *The role of AI in the creation of sustainability-oriented digital innovation*, with Raissa Pershina
+- *Fueling Doubt: Organizational Responses to Strategic Reversals in Climate Commitments*, with Birthe Soppe
+- *Top Management response to a mining crisis*, with Ivy Buche
+- *Balancing acts – authenticity of assertive talk of female top executives*, with Tina Saebi & Abbie Oliver
+- *Harmonizing the hive: linguistic strategies in ecosystems*, with Tina Saebi & Nicolai J. Foss
+- *Platform TMTs: A Communication Shift in New Organisational Forms*, AOM Proc, with Regis Coeurderoy, 2023.
+- *Covid-19 and the scale-up of the platform revolution*, ESCP Impact Papers, with Regis Coeurderoy, 2020.-->
 
 ---
 
@@ -104,7 +104,11 @@ Thesis: *Strategic Leadership Communication in Business Ecosystems*
 
 ## Tools
 
-Python, R, Stata, NLP, Zotero, LaTeX, Tableau, Power BI
+Programming & Tools: Python, Stata, Text Analysis and NLP, Jupyter Notebooks, Tableau, Power BI, LIWC, NVivo, Zotero, LaTeX
+Project Management: Jira, Trello, GitHub, Microsoft Project, Asana, Agile/Scrum methodology
+Digital Tools for Teaching & Collaboration: Canvas, Moodle, Zoom, Miro, Slack, Microsoft Teams, Loom (video creation & feedback)
+
+Polish (native), English (fluent), French (fluent), Norwegian (A2, learning)
 
 ---
 
@@ -114,4 +118,4 @@ Polish (native), English (fluent), French (fluent), Norwegian (A2)
 
 ---
 
-*Full list of publications and downloadable CV available on request.*
+*Full list of working papers, publications and downloadable CV available on request.*
