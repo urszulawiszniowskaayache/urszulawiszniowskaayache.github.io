@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: splash
 permalink: /
+title: ""
 author_profile: false
 ---
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
