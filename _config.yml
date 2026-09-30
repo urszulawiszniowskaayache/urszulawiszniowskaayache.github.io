@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 minimal_mistakes_skin: "default"  # or another light skin like "air", "mint", etc.
 theme_toggle: false
-title                    : "Urszula Wiszniowska Ayache"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Urszula Wiszniowska Ayache"
 description              : &description "Strategy scholar studying platform and ecosystem strategy, organisational futures, and strategic adaptation"
