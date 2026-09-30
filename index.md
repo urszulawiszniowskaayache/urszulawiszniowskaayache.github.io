@@ -4,7 +4,7 @@ permalink: /
 title: ""
 author_profile: false
 ---
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 70px; flex-wrap: wrap; max-width: 1200px; margin: 0 auto;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
     <h1 style="margin-bottom: 0.5em;">Urszula Wiszniowska Ayache, PhD</h1>
 
