@@ -1,10 +1,7 @@
 ---
-layout: splash
+layout: single
 permalink: /
-header:
-  overlay_color: "#ffffff"
-  overlay_image: none
-  overlay_filter: "0"
+author_profile: false
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
@@ -23,7 +20,7 @@ header:
     <p>
       <a href="/cv/" target="_blank">📄 CV</a> &nbsp;|&nbsp;
       <a href="https://www.linkedin.com/in/urszulawiszniowskaayache/" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp;
-      <a href="mailto:urszulwa@ifi.uio.no">✉️ Email</a>
+      <a href="mailto:urwis0288@oslomet.no">✉️ Email</a>
     </p>
   </div>
 </div>
